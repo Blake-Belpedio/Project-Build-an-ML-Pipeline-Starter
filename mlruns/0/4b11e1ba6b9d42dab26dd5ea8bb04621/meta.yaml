@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4b11e1ba6b9d42dab26dd5ea8bb04621/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b11e1ba6b9d42dab26dd5ea8bb04621
+run_name: merciful-colt-972
+run_uuid: 4b11e1ba6b9d42dab26dd5ea8bb04621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707863770447
+status: 1
+tags: []
+user_id: blake
