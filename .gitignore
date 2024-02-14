@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/eda/wandb/run-20240213_174151-fnjrl7gn/files/code/_session_history.ipynb
+*.ipynb
+*.gitRepoURL
+*.backend
+*.entryPoint
+*.env
+*.runName
+*.commit
