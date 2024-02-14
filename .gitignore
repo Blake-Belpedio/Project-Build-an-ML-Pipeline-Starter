@@ -10,3 +10,7 @@
 *.env
 *.runName
 *.commit
+/mlruns/0/f04dfe4675064b679ed9af641e44fe90/tags/mlflow.source.git.commit
+*.ipynb
+*.ipynb
+*.ipynb
