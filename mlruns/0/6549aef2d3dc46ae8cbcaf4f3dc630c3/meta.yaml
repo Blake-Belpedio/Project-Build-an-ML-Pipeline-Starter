@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6549aef2d3dc46ae8cbcaf4f3dc630c3/artifacts
+end_time: 1707943111857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6549aef2d3dc46ae8cbcaf4f3dc630c3
+run_name: omniscient-rook-498
+run_uuid: 6549aef2d3dc46ae8cbcaf4f3dc630c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707943076245
+status: 4
+tags: []
+user_id: blake

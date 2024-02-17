@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/924b2b40df25483ba442ae6a7149886c/artifacts
+end_time: 1708047355175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 924b2b40df25483ba442ae6a7149886c
+run_name: righteous-ant-562
+run_uuid: 924b2b40df25483ba442ae6a7149886c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708047311579
+status: 4
+tags: []
+user_id: blake

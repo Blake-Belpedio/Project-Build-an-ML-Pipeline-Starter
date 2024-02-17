@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/27b1f5ced6b74de0b68400227f158f22/artifacts
+end_time: 1707942468082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27b1f5ced6b74de0b68400227f158f22
+run_name: valuable-conch-428
+run_uuid: 27b1f5ced6b74de0b68400227f158f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707942430041
+status: 4
+tags: []
+user_id: blake

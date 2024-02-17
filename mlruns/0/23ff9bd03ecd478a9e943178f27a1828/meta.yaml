@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/23ff9bd03ecd478a9e943178f27a1828/artifacts
+end_time: 1708125673969
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23ff9bd03ecd478a9e943178f27a1828
+run_name: judicious-gnu-580
+run_uuid: 23ff9bd03ecd478a9e943178f27a1828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708125672556
+status: 4
+tags: []
+user_id: blake

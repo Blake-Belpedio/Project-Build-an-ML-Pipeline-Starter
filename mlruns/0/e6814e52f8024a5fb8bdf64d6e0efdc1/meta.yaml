@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e6814e52f8024a5fb8bdf64d6e0efdc1/artifacts
+end_time: 1708046622436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6814e52f8024a5fb8bdf64d6e0efdc1
+run_name: debonair-elk-583
+run_uuid: e6814e52f8024a5fb8bdf64d6e0efdc1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708046588194
+status: 4
+tags: []
+user_id: blake

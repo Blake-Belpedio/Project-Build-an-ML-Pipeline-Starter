@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/764ff283fbfb48acb5488662406b6048/artifacts
+end_time: 1707870899421
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 764ff283fbfb48acb5488662406b6048
+run_name: illustrious-calf-156
+run_uuid: 764ff283fbfb48acb5488662406b6048
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870897924
+status: 4
+tags: []
+user_id: blake

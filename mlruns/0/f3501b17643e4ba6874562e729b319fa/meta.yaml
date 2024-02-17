@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f3501b17643e4ba6874562e729b319fa/artifacts
+end_time: 1707942132121
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3501b17643e4ba6874562e729b319fa
+run_name: languid-croc-397
+run_uuid: f3501b17643e4ba6874562e729b319fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707942096125
+status: 4
+tags: []
+user_id: blake

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0dcadad8b6184ac5863530e208944921/artifacts
+end_time: 1707933977972
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dcadad8b6184ac5863530e208944921
+run_name: selective-hawk-27
+run_uuid: 0dcadad8b6184ac5863530e208944921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707933920729
+status: 4
+tags: []
+user_id: blake

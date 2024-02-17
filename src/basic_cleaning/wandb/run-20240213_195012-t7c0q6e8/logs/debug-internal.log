@@ -1,0 +1,206 @@
+2024-02-13 19:50:12,167 INFO    StreamThr :11660 [internal.py:wandb_internal():87] W&B internal server running at pid: 11660, started at: 2024-02-13 19:50:12.165414
+2024-02-13 19:50:12,172 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: status
+2024-02-13 19:50:12,175 INFO    WriterThread:11660 [datastore.py:open_for_write():85] open: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/run-t7c0q6e8.wandb
+2024-02-13 19:50:12,176 DEBUG   SenderThread:11660 [sender.py:send():334] send: header
+2024-02-13 19:50:12,182 DEBUG   SenderThread:11660 [sender.py:send():334] send: run
+2024-02-13 19:50:12,695 INFO    SenderThread:11660 [dir_watcher.py:__init__():216] watching files in: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files
+2024-02-13 19:50:12,695 INFO    SenderThread:11660 [sender.py:_start_run_threads():1065] run started: t7c0q6e8 with start time 1707871812.165201
+2024-02-13 19:50:12,695 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: summary_record
+2024-02-13 19:50:12,696 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: check_version
+2024-02-13 19:50:12,697 INFO    SenderThread:11660 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-13 19:50:12,697 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: check_version
+2024-02-13 19:50:12,817 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: run_start
+2024-02-13 19:50:12,819 DEBUG   HandlerThread:11660 [system_info.py:__init__():31] System info init
+2024-02-13 19:50:12,819 DEBUG   HandlerThread:11660 [system_info.py:__init__():46] System info init done
+2024-02-13 19:50:12,819 INFO    HandlerThread:11660 [system_monitor.py:start():151] Starting system monitor
+2024-02-13 19:50:12,819 INFO    SystemMonitor:11660 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2024-02-13 19:50:12,820 INFO    SystemMonitor:11660 [interfaces.py:start():168] Started cpu
+2024-02-13 19:50:12,821 INFO    SystemMonitor:11660 [interfaces.py:start():168] Started disk
+2024-02-13 19:50:12,822 INFO    SystemMonitor:11660 [interfaces.py:start():168] Started memory
+2024-02-13 19:50:12,823 INFO    HandlerThread:11660 [system_monitor.py:probe():172] Collecting system info
+2024-02-13 19:50:12,825 INFO    SystemMonitor:11660 [interfaces.py:start():168] Started network
+2024-02-13 19:50:12,829 DEBUG   HandlerThread:11660 [system_info.py:probe():195] Probing system
+2024-02-13 19:50:12,890 DEBUG   HandlerThread:11660 [system_info.py:_probe_git():180] Probing git
+2024-02-13 19:50:12,897 DEBUG   HandlerThread:11660 [system_info.py:_probe_git():188] Probing git done
+2024-02-13 19:50:12,898 DEBUG   HandlerThread:11660 [system_info.py:probe():241] Probing system done
+2024-02-13 19:50:12,898 DEBUG   HandlerThread:11660 [system_monitor.py:probe():181] {'os': 'Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.31', 'python': '3.9.18', 'heartbeatAt': '2024-02-14T00:50:12.829737', 'startedAt': '2024-02-14T00:50:12.143159', 'docker': None, 'cuda': None, 'args': ('--input_artifact', 'sample.csv:latest', '--output_artifact', 'clean_sample.csv', '--output_type', 'clean_sample', '--output_description', 'Data with outliers and null values removed', '--min_price', '10', '--max_price', '350'), 'state': 'running', 'program': '/home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/run.py', 'codePath': 'src/basic_cleaning/run.py', 'git': {'remote': 'https://github.com/Blake-Belpedio/Project-Build-an-ML-Pipeline-Starter.git', 'commit': '17c409eb8ee71297ddb9404728cc6c352e40c94f'}, 'email': None, 'root': '/home/blake/Project-Build-an-ML-Pipeline-Starter', 'host': 'DESKTOP-M1J797K', 'username': 'blake', 'executable': '/home/blake/miniconda3/envs/mlflow-19707c3818ce7e70ccc2f8b703046ae5d9c85174/bin/python', 'cpu_count': 4, 'cpu_count_logical': 8, 'cpu_freq': {'current': 2304.007, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2304.007, 'min': 0.0, 'max': 0.0}, {'current': 2304.007, 'min': 0.0, 'max': 0.0}, {'current': 2304.007, 'min': 0.0, 'max': 0.0}, {'current': 2304.007, 'min': 0.0, 'max': 0.0}, {'current': 2304.007, 'min': 0.0, 'max': 0.0}, {'current': 2304.007, 'min': 0.0, 'max': 0.0}, {'current': 2304.007, 'min': 0.0, 'max': 0.0}, {'current': 2304.007, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 1006.853931427002, 'used': 9.108089447021484}, 'memory': {'total': 7.660133361816406}}
+2024-02-13 19:50:12,898 INFO    HandlerThread:11660 [system_monitor.py:probe():182] Finished collecting system info
+2024-02-13 19:50:12,898 INFO    HandlerThread:11660 [system_monitor.py:probe():185] Publishing system info
+2024-02-13 19:50:12,898 DEBUG   HandlerThread:11660 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2024-02-13 19:50:12,898 DEBUG   HandlerThread:11660 [system_info.py:_save_pip():67] Saving pip packages done
+2024-02-13 19:50:12,898 DEBUG   HandlerThread:11660 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2024-02-13 19:50:13,658 DEBUG   HandlerThread:11660 [system_info.py:_save_conda():86] Saving conda packages done
+2024-02-13 19:50:13,658 DEBUG   HandlerThread:11660 [system_info.py:_save_code():89] Saving code
+2024-02-13 19:50:13,662 DEBUG   HandlerThread:11660 [system_info.py:_save_code():110] Saving code done
+2024-02-13 19:50:13,663 DEBUG   HandlerThread:11660 [system_info.py:_save_patches():127] Saving git patches
+2024-02-13 19:50:13,696 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/requirements.txt
+2024-02-13 19:50:13,697 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/conda-environment.yaml
+2024-02-13 19:50:13,697 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/code/src/basic_cleaning/run.py
+2024-02-13 19:50:13,697 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/wandb-summary.json
+2024-02-13 19:50:13,697 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/code
+2024-02-13 19:50:13,697 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/code/src
+2024-02-13 19:50:13,697 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/code/src/basic_cleaning
+2024-02-13 19:50:13,852 DEBUG   HandlerThread:11660 [system_info.py:_save_patches():169] Saving git patches done
+2024-02-13 19:50:13,853 INFO    HandlerThread:11660 [system_monitor.py:probe():187] Finished publishing system info
+2024-02-13 19:50:13,855 DEBUG   SenderThread:11660 [sender.py:send():334] send: files
+2024-02-13 19:50:13,855 INFO    SenderThread:11660 [sender.py:_save_file():1319] saving file wandb-metadata.json with policy now
+2024-02-13 19:50:13,856 INFO    SenderThread:11660 [sender.py:_save_file():1319] saving file code/src/basic_cleaning/run.py with policy now
+2024-02-13 19:50:13,856 INFO    SenderThread:11660 [sender.py:_save_file():1319] saving file diff.patch with policy now
+2024-02-13 19:50:13,856 INFO    SenderThread:11660 [sender.py:_save_file():1319] saving file upstream_diff_61e3174f93b0aa23bb606847de777bb472b19e71.patch with policy now
+2024-02-13 19:50:13,864 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: stop_status
+2024-02-13 19:50:13,866 DEBUG   SenderThread:11660 [sender.py:send():334] send: telemetry
+2024-02-13 19:50:13,866 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: stop_status
+2024-02-13 19:50:14,121 DEBUG   SenderThread:11660 [sender.py:send():334] send: config
+2024-02-13 19:50:14,415 INFO    Thread-16 :11660 [upload_job.py:push():143] Uploaded file /tmp/tmpiytp188iwandb/mi9sl9fa-wandb-metadata.json
+2024-02-13 19:50:14,449 DEBUG   SenderThread:11660 [sender.py:send():334] send: use_artifact
+2024-02-13 19:50:14,493 INFO    Thread-19 :11660 [upload_job.py:push():143] Uploaded file /tmp/tmpiytp188iwandb/g5gr3h3x-upstream_diff_61e3174f93b0aa23bb606847de777bb472b19e71.patch
+2024-02-13 19:50:14,552 INFO    Thread-17 :11660 [upload_job.py:push():143] Uploaded file /tmp/tmpiytp188iwandb/nt9t5bun-code/src/basic_cleaning/run.py
+2024-02-13 19:50:14,562 INFO    Thread-18 :11660 [upload_job.py:push():143] Uploaded file /tmp/tmpiytp188iwandb/gu0aadnr-diff.patch
+2024-02-13 19:50:14,696 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/output.log
+2024-02-13 19:50:14,696 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/upstream_diff_61e3174f93b0aa23bb606847de777bb472b19e71.patch
+2024-02-13 19:50:14,696 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/diff.patch
+2024-02-13 19:50:14,696 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_created():275] file/dir created: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/wandb-metadata.json
+2024-02-13 19:50:15,339 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: log_artifact
+2024-02-13 19:50:15,341 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: log_artifact
+2024-02-13 19:50:16,350 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: poll_exit
+2024-02-13 19:50:16,698 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/output.log
+2024-02-13 19:50:17,472 INFO    Thread-21 :11660 [upload_job.py:push():101] Uploaded file /home/blake/.local/share/wandb/artifacts/staging/tmpg25cv70o
+2024-02-13 19:50:18,330 INFO    SenderThread:11660 [sender.py:send_request_log_artifact():1379] logged artifact clean_sample.csv - {'id': 'QXJ0aWZhY3Q6NzIxNDA0NTM5', 'digest': 'd1caf0f1b6fe9e1d49d7c0b252c8b39a', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEzOTU2OTE3NQ==', 'latestArtifact': None}, 'version': 'latest'}
+2024-02-13 19:50:18,331 DEBUG   SenderThread:11660 [sender.py:send():334] send: exit
+2024-02-13 19:50:18,332 INFO    SenderThread:11660 [sender.py:send_exit():557] handling exit code: 0
+2024-02-13 19:50:18,332 INFO    SenderThread:11660 [sender.py:send_exit():559] handling runtime: 2
+2024-02-13 19:50:18,337 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: status_report
+2024-02-13 19:50:18,343 INFO    SenderThread:11660 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-13 19:50:18,344 INFO    SenderThread:11660 [sender.py:send_exit():565] send defer
+2024-02-13 19:50:18,345 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: poll_exit
+2024-02-13 19:50:18,347 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,347 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 0
+2024-02-13 19:50:18,348 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,349 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 0
+2024-02-13 19:50:18,349 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 1
+2024-02-13 19:50:18,350 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,350 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 1
+2024-02-13 19:50:18,352 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,352 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 1
+2024-02-13 19:50:18,352 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 2
+2024-02-13 19:50:18,354 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,354 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 2
+2024-02-13 19:50:18,354 INFO    HandlerThread:11660 [system_monitor.py:finish():161] Stopping system monitor
+2024-02-13 19:50:18,359 DEBUG   SystemMonitor:11660 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2024-02-13 19:50:18,360 INFO    HandlerThread:11660 [interfaces.py:finish():175] Joined cpu
+2024-02-13 19:50:18,360 DEBUG   SystemMonitor:11660 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2024-02-13 19:50:18,361 DEBUG   SystemMonitor:11660 [system_monitor.py:_start():141] Publishing last batch of metrics
+2024-02-13 19:50:18,362 INFO    HandlerThread:11660 [interfaces.py:finish():175] Joined disk
+2024-02-13 19:50:18,362 INFO    HandlerThread:11660 [interfaces.py:finish():175] Joined memory
+2024-02-13 19:50:18,362 INFO    HandlerThread:11660 [interfaces.py:finish():175] Joined network
+2024-02-13 19:50:18,363 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,364 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 2
+2024-02-13 19:50:18,364 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 3
+2024-02-13 19:50:18,364 DEBUG   SenderThread:11660 [sender.py:send():334] send: stats
+2024-02-13 19:50:18,365 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,365 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 3
+2024-02-13 19:50:18,366 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,366 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 3
+2024-02-13 19:50:18,366 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 4
+2024-02-13 19:50:18,366 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,366 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 4
+2024-02-13 19:50:18,367 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,367 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 4
+2024-02-13 19:50:18,367 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 5
+2024-02-13 19:50:18,367 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,368 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 5
+2024-02-13 19:50:18,368 DEBUG   SenderThread:11660 [sender.py:send():334] send: summary
+2024-02-13 19:50:18,369 INFO    SenderThread:11660 [sender.py:_save_file():1319] saving file wandb-summary.json with policy end
+2024-02-13 19:50:18,369 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,369 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 5
+2024-02-13 19:50:18,369 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 6
+2024-02-13 19:50:18,370 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,370 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 6
+2024-02-13 19:50:18,370 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,370 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 6
+2024-02-13 19:50:18,376 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: status_report
+2024-02-13 19:50:18,601 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 7
+2024-02-13 19:50:18,602 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:18,602 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 7
+2024-02-13 19:50:18,604 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:18,604 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 7
+2024-02-13 19:50:18,703 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/config.yaml
+2024-02-13 19:50:18,703 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/wandb-summary.json
+2024-02-13 19:50:20,133 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 8
+2024-02-13 19:50:20,134 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:20,134 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 8
+2024-02-13 19:50:20,135 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:20,136 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 8
+2024-02-13 19:50:20,158 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 9
+2024-02-13 19:50:20,159 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:20,160 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 9
+2024-02-13 19:50:20,161 DEBUG   SenderThread:11660 [sender.py:send():334] send: artifact
+2024-02-13 19:50:20,705 INFO    Thread-13 :11660 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/output.log
+2024-02-13 19:50:21,360 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: keepalive
+2024-02-13 19:50:21,429 INFO    Thread-24 :11660 [upload_job.py:push():101] Uploaded file /home/blake/.local/share/wandb/artifacts/staging/tmpabr729ig
+2024-02-13 19:50:21,430 INFO    Thread-25 :11660 [upload_job.py:push():101] Uploaded file /home/blake/.local/share/wandb/artifacts/staging/tmpveckqube
+2024-02-13 19:50:21,494 INFO    Thread-23 :11660 [upload_job.py:push():101] Uploaded file /home/blake/.local/share/wandb/artifacts/staging/tmp3chovenk
+2024-02-13 19:50:22,786 INFO    SenderThread:11660 [sender.py:send_artifact():1415] sent artifact job-https___github.com_Blake-Belpedio_Project-Build-an-ML-Pipeline-Starter.git_src_basic_cleaning_run.py - {'id': 'QXJ0aWZhY3Q6NzIxNDA0NTcz', 'digest': '1a6ae6fa51af6bf13227691af3369aec', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjEzOTU2OTE4Mg==', 'latestArtifact': None}, 'version': 'latest'}
+2024-02-13 19:50:22,787 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:22,787 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 9
+2024-02-13 19:50:22,787 INFO    SenderThread:11660 [dir_watcher.py:finish():362] shutting down directory watcher
+2024-02-13 19:50:23,708 INFO    SenderThread:11660 [dir_watcher.py:finish():392] scan: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files
+2024-02-13 19:50:23,708 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/requirements.txt requirements.txt
+2024-02-13 19:50:23,709 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/diff.patch diff.patch
+2024-02-13 19:50:23,709 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/conda-environment.yaml conda-environment.yaml
+2024-02-13 19:50:23,709 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/wandb-summary.json wandb-summary.json
+2024-02-13 19:50:23,709 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/config.yaml config.yaml
+2024-02-13 19:50:23,710 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/output.log output.log
+2024-02-13 19:50:23,710 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/upstream_diff_61e3174f93b0aa23bb606847de777bb472b19e71.patch upstream_diff_61e3174f93b0aa23bb606847de777bb472b19e71.patch
+2024-02-13 19:50:23,710 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/wandb-metadata.json wandb-metadata.json
+2024-02-13 19:50:23,721 INFO    SenderThread:11660 [dir_watcher.py:finish():406] scan save: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/code/src/basic_cleaning/run.py code/src/basic_cleaning/run.py
+2024-02-13 19:50:23,721 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 10
+2024-02-13 19:50:23,726 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:23,726 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 10
+2024-02-13 19:50:23,726 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: status_report
+2024-02-13 19:50:23,733 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:23,733 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 10
+2024-02-13 19:50:23,733 INFO    SenderThread:11660 [file_pusher.py:finish():160] shutting down file pusher
+2024-02-13 19:50:24,194 INFO    Thread-26 :11660 [upload_job.py:push():143] Uploaded file /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/requirements.txt
+2024-02-13 19:50:24,267 INFO    Thread-29 :11660 [upload_job.py:push():143] Uploaded file /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/config.yaml
+2024-02-13 19:50:24,273 INFO    Thread-28 :11660 [upload_job.py:push():143] Uploaded file /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/wandb-summary.json
+2024-02-13 19:50:24,324 INFO    Thread-27 :11660 [upload_job.py:push():143] Uploaded file /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/conda-environment.yaml
+2024-02-13 19:50:24,347 INFO    Thread-30 :11660 [upload_job.py:push():143] Uploaded file /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/files/output.log
+2024-02-13 19:50:24,550 INFO    Thread-12 :11660 [sender.py:transition_state():585] send defer: 11
+2024-02-13 19:50:24,551 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:24,551 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 11
+2024-02-13 19:50:24,551 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:24,551 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 11
+2024-02-13 19:50:24,552 INFO    SenderThread:11660 [file_pusher.py:join():165] waiting for file pusher
+2024-02-13 19:50:24,552 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 12
+2024-02-13 19:50:24,552 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:24,552 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 12
+2024-02-13 19:50:24,552 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:24,552 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 12
+2024-02-13 19:50:24,628 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 13
+2024-02-13 19:50:24,628 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:24,628 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 13
+2024-02-13 19:50:24,628 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:24,629 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 13
+2024-02-13 19:50:24,629 INFO    SenderThread:11660 [sender.py:transition_state():585] send defer: 14
+2024-02-13 19:50:24,629 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: defer
+2024-02-13 19:50:24,629 INFO    HandlerThread:11660 [handler.py:handle_request_defer():170] handle defer: 14
+2024-02-13 19:50:24,630 DEBUG   SenderThread:11660 [sender.py:send():334] send: final
+2024-02-13 19:50:24,630 DEBUG   SenderThread:11660 [sender.py:send():334] send: footer
+2024-02-13 19:50:24,630 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: defer
+2024-02-13 19:50:24,630 INFO    SenderThread:11660 [sender.py:send_request_defer():581] handle sender defer: 14
+2024-02-13 19:50:24,630 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: poll_exit
+2024-02-13 19:50:24,631 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: server_info
+2024-02-13 19:50:24,632 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: poll_exit
+2024-02-13 19:50:24,633 DEBUG   SenderThread:11660 [sender.py:send_request():361] send_request: server_info
+2024-02-13 19:50:24,635 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: get_summary
+2024-02-13 19:50:24,635 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: sampled_history
+2024-02-13 19:50:24,818 INFO    MainThread:11660 [wandb_run.py:_footer_history_summary_info():3427] rendering history
+2024-02-13 19:50:24,818 INFO    MainThread:11660 [wandb_run.py:_footer_history_summary_info():3459] rendering summary
+2024-02-13 19:50:24,818 INFO    MainThread:11660 [wandb_run.py:_footer_sync_info():3383] logging synced files
+2024-02-13 19:50:24,820 DEBUG   HandlerThread:11660 [handler.py:handle_request():144] handle_request: shutdown
+2024-02-13 19:50:24,820 INFO    HandlerThread:11660 [handler.py:finish():841] shutting down handler
+2024-02-13 19:50:25,632 INFO    WriterThread:11660 [datastore.py:close():299] close: /home/blake/Project-Build-an-ML-Pipeline-Starter/src/basic_cleaning/wandb/run-20240213_195012-t7c0q6e8/run-t7c0q6e8.wandb
+2024-02-13 19:50:25,817 INFO    SenderThread:11660 [sender.py:finish():1491] shutting down sender
+2024-02-13 19:50:25,818 INFO    SenderThread:11660 [file_pusher.py:finish():160] shutting down file pusher
+2024-02-13 19:50:25,818 INFO    SenderThread:11660 [file_pusher.py:join():165] waiting for file pusher

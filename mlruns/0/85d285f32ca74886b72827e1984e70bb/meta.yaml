@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/85d285f32ca74886b72827e1984e70bb/artifacts
+end_time: 1708124047079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85d285f32ca74886b72827e1984e70bb
+run_name: grandiose-finch-28
+run_uuid: 85d285f32ca74886b72827e1984e70bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708124009020
+status: 4
+tags: []
+user_id: blake

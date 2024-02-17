@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a4d05e06a0f64c6783ab4c1e33f01aa4/artifacts
+end_time: 1707870835354
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a4d05e06a0f64c6783ab4c1e33f01aa4
+run_name: nervous-yak-850
+run_uuid: a4d05e06a0f64c6783ab4c1e33f01aa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870833964
+status: 4
+tags: []
+user_id: blake

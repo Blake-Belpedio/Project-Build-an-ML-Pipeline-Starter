@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1e162249dff74124b106c563eec7ddd2/artifacts
+end_time: 1708048243718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e162249dff74124b106c563eec7ddd2
+run_name: incongruous-pig-80
+run_uuid: 1e162249dff74124b106c563eec7ddd2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708048201920
+status: 4
+tags: []
+user_id: blake

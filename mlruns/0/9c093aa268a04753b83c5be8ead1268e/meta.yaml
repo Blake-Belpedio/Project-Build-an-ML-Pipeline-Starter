@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9c093aa268a04753b83c5be8ead1268e/artifacts
+end_time: 1707943262886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c093aa268a04753b83c5be8ead1268e
+run_name: fortunate-croc-374
+run_uuid: 9c093aa268a04753b83c5be8ead1268e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707943219904
+status: 4
+tags: []
+user_id: blake

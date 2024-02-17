@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/42d53a94a87a49d6bf562085f5e55cf6/artifacts
+end_time: 1707870490479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42d53a94a87a49d6bf562085f5e55cf6
+run_name: unequaled-loon-340
+run_uuid: 42d53a94a87a49d6bf562085f5e55cf6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870486422
+status: 4
+tags: []
+user_id: blake

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c6cad5f734c847329f2e8c84cb9dd4c9/artifacts
+end_time: 1707938812417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6cad5f734c847329f2e8c84cb9dd4c9
+run_name: nimble-elk-218
+run_uuid: c6cad5f734c847329f2e8c84cb9dd4c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707938677831
+status: 4
+tags: []
+user_id: blake

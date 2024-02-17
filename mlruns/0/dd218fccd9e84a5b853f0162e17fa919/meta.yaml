@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/dd218fccd9e84a5b853f0162e17fa919/artifacts
+end_time: 1707871826857
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd218fccd9e84a5b853f0162e17fa919
+run_name: zealous-moth-883
+run_uuid: dd218fccd9e84a5b853f0162e17fa919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707871806467
+status: 3
+tags: []
+user_id: blake

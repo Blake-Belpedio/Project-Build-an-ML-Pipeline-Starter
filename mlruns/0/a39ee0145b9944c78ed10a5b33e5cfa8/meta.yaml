@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a39ee0145b9944c78ed10a5b33e5cfa8/artifacts
+end_time: 1708124893019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a39ee0145b9944c78ed10a5b33e5cfa8
+run_name: fearless-asp-157
+run_uuid: a39ee0145b9944c78ed10a5b33e5cfa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708124808463
+status: 3
+tags: []
+user_id: blake

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/cd3b1dcbcce44087aaf38a704bf0349c/artifacts
+end_time: 1707940714599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd3b1dcbcce44087aaf38a704bf0349c
+run_name: ambitious-jay-146
+run_uuid: cd3b1dcbcce44087aaf38a704bf0349c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707940713071
+status: 4
+tags: []
+user_id: blake

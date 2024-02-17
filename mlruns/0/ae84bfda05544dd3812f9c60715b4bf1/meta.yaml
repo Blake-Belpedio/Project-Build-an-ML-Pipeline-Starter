@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae84bfda05544dd3812f9c60715b4bf1/artifacts
+end_time: 1707940387092
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae84bfda05544dd3812f9c60715b4bf1
+run_name: awesome-wren-201
+run_uuid: ae84bfda05544dd3812f9c60715b4bf1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707940338747
+status: 4
+tags: []
+user_id: blake

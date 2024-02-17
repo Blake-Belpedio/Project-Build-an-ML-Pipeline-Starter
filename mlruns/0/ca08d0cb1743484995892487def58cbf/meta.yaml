@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ca08d0cb1743484995892487def58cbf/artifacts
+end_time: 1707939988036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca08d0cb1743484995892487def58cbf
+run_name: luminous-crane-50
+run_uuid: ca08d0cb1743484995892487def58cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707939947544
+status: 4
+tags: []
+user_id: blake

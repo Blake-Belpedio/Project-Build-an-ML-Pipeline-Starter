@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b51f9cb438c747d6b75564d5f12dd57b/artifacts
+end_time: 1707870434042
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b51f9cb438c747d6b75564d5f12dd57b
+run_name: languid-koi-689
+run_uuid: b51f9cb438c747d6b75564d5f12dd57b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870432742
+status: 4
+tags: []
+user_id: blake

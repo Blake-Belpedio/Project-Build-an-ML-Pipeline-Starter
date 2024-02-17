@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1ec78f9335b437d8d3c8dde8189fcdd/artifacts
+end_time: 1707943112140
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1ec78f9335b437d8d3c8dde8189fcdd
+run_name: placid-mare-50
+run_uuid: d1ec78f9335b437d8d3c8dde8189fcdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707943073418
+status: 4
+tags: []
+user_id: blake

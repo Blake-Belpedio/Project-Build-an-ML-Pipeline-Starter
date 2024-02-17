@@ -1,0 +1,10 @@
+2024-02-14 14:26:44,369 Minimum price: 10, Maximum price: 350
+2024-02-14 14:26:44,382 Preparing sklearn pipeline
+Traceback (most recent call last):
+  File "/home/blake/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 303, in <module>
+    go(args)
+  File "/home/blake/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 69, in go
+    sk_pipe, processed_features = get_inference_pipeline(rf_config, args.max_tfidf_features)
+  File "/home/blake/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 175, in get_inference_pipeline
+    OneHotEncodeer()
+NameError: name 'OneHotEncodeer' is not defined

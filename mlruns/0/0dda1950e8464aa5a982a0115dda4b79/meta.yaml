@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0dda1950e8464aa5a982a0115dda4b79/artifacts
+end_time: 1708126002986
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dda1950e8464aa5a982a0115dda4b79
+run_name: delightful-swan-97
+run_uuid: 0dda1950e8464aa5a982a0115dda4b79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708126001656
+status: 4
+tags: []
+user_id: blake

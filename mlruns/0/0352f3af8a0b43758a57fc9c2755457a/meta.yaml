@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/0352f3af8a0b43758a57fc9c2755457a/artifacts
+end_time: 1707871826617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0352f3af8a0b43758a57fc9c2755457a
+run_name: caring-perch-65
+run_uuid: 0352f3af8a0b43758a57fc9c2755457a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707871808904
+status: 3
+tags: []
+user_id: blake

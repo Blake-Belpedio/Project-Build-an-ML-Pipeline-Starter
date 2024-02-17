@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3f74442892b749879f858e831f6b22a5/artifacts
+end_time: 1707870135599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f74442892b749879f858e831f6b22a5
+run_name: placid-sheep-547
+run_uuid: 3f74442892b749879f858e831f6b22a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870071404
+status: 4
+tags: []
+user_id: blake

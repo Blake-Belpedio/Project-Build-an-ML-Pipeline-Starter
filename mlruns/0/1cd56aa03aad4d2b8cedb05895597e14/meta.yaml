@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1cd56aa03aad4d2b8cedb05895597e14/artifacts
+end_time: 1707933978306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cd56aa03aad4d2b8cedb05895597e14
+run_name: thundering-rook-414
+run_uuid: 1cd56aa03aad4d2b8cedb05895597e14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707933917389
+status: 4
+tags: []
+user_id: blake

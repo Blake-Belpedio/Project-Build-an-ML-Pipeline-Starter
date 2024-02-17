@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f04dfe4675064b679ed9af641e44fe90/artifacts
+end_time: 1707863959053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f04dfe4675064b679ed9af641e44fe90
+run_name: worried-kite-726
+run_uuid: f04dfe4675064b679ed9af641e44fe90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707863942955
+status: 3
+tags: []
+user_id: blake

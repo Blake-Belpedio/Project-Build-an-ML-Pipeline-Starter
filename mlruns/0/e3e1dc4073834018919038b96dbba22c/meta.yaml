@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e3e1dc4073834018919038b96dbba22c/artifacts
+end_time: 1708048940666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e3e1dc4073834018919038b96dbba22c
+run_name: clean-stork-588
+run_uuid: e3e1dc4073834018919038b96dbba22c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708048741942
+status: 4
+tags: []
+user_id: blake

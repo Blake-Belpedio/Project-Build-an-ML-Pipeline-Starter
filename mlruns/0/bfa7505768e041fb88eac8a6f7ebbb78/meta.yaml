@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bfa7505768e041fb88eac8a6f7ebbb78/artifacts
+end_time: 1708126152922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bfa7505768e041fb88eac8a6f7ebbb78
+run_name: peaceful-cow-737
+run_uuid: bfa7505768e041fb88eac8a6f7ebbb78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708126026382
+status: 3
+tags: []
+user_id: blake

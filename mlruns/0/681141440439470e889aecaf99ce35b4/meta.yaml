@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/681141440439470e889aecaf99ce35b4/artifacts
+end_time: 1707934273687
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 681141440439470e889aecaf99ce35b4
+run_name: defiant-rook-166
+run_uuid: 681141440439470e889aecaf99ce35b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707934265635
+status: 3
+tags: []
+user_id: blake

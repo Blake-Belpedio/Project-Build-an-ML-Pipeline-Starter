@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e37fc9973cb047cf8e48b92c65e0c18d/artifacts
+end_time: 1708124047394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e37fc9973cb047cf8e48b92c65e0c18d
+run_name: placid-rook-222
+run_uuid: e37fc9973cb047cf8e48b92c65e0c18d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708124005061
+status: 4
+tags: []
+user_id: blake

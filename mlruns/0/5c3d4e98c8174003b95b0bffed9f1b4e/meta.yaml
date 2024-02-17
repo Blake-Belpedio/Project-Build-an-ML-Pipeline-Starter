@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5c3d4e98c8174003b95b0bffed9f1b4e/artifacts
+end_time: 1707942697286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c3d4e98c8174003b95b0bffed9f1b4e
+run_name: awesome-ant-515
+run_uuid: 5c3d4e98c8174003b95b0bffed9f1b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707942660652
+status: 4
+tags: []
+user_id: blake

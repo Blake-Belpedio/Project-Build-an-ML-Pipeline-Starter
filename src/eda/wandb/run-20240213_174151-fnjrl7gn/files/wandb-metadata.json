@@ -1,0 +1,76 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-02-13T22:41:51.835376",
+    "startedAt": "2024-02-13T22:41:51.124550",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "eda.ipynb",
+    "root": "/home/blake/Project-Build-an-ML-Pipeline-Starter",
+    "git": {
+        "remote": "https://github.com/Blake-Belpedio/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "host": "DESKTOP-M1J797K",
+    "username": "blake",
+    "executable": "/home/blake/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2304.007,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2304.007,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 9.01641845703125
+    },
+    "memory": {
+        "total": 7.660133361816406
+    }
+}

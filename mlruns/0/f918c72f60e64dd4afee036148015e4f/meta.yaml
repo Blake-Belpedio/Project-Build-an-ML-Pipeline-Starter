@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f918c72f60e64dd4afee036148015e4f/artifacts
+end_time: 1707934157865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f918c72f60e64dd4afee036148015e4f
+run_name: charming-koi-900
+run_uuid: f918c72f60e64dd4afee036148015e4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707934149717
+status: 4
+tags: []
+user_id: blake

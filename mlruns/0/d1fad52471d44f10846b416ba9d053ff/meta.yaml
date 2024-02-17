@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d1fad52471d44f10846b416ba9d053ff/artifacts
+end_time: 1708051408587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1fad52471d44f10846b416ba9d053ff
+run_name: honorable-croc-753
+run_uuid: d1fad52471d44f10846b416ba9d053ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708051369778
+status: 4
+tags: []
+user_id: blake

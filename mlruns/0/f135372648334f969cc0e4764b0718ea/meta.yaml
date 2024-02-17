@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f135372648334f969cc0e4764b0718ea/artifacts
+end_time: 1707870899707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f135372648334f969cc0e4764b0718ea
+run_name: awesome-foal-953
+run_uuid: f135372648334f969cc0e4764b0718ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870895420
+status: 4
+tags: []
+user_id: blake

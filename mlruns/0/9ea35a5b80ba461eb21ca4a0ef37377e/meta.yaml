@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9ea35a5b80ba461eb21ca4a0ef37377e/artifacts
+end_time: 1708048003253
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ea35a5b80ba461eb21ca4a0ef37377e
+run_name: debonair-midge-221
+run_uuid: 9ea35a5b80ba461eb21ca4a0ef37377e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708047954324
+status: 4
+tags: []
+user_id: blake

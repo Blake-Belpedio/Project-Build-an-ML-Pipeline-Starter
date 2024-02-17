@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9ab9753df44348ab93d55c597d851e29/artifacts
+end_time: 1707935912592
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ab9753df44348ab93d55c597d851e29
+run_name: luminous-midge-576
+run_uuid: 9ab9753df44348ab93d55c597d851e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707935756707
+status: 3
+tags: []
+user_id: blake

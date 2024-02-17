@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a0940ec7abbc4ddeac71cc92fdd9afb9/artifacts
+end_time: 1707871763246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0940ec7abbc4ddeac71cc92fdd9afb9
+run_name: abundant-deer-628
+run_uuid: a0940ec7abbc4ddeac71cc92fdd9afb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707871761958
+status: 4
+tags: []
+user_id: blake

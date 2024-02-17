@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7c379a9a19cd4c1f849292475dbbf366/artifacts
+end_time: 1707935912812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c379a9a19cd4c1f849292475dbbf366
+run_name: marvelous-rook-445
+run_uuid: 7c379a9a19cd4c1f849292475dbbf366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707935751873
+status: 3
+tags: []
+user_id: blake

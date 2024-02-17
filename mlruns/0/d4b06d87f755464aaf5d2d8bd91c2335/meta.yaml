@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d4b06d87f755464aaf5d2d8bd91c2335/artifacts
+end_time: 1708051147248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4b06d87f755464aaf5d2d8bd91c2335
+run_name: zealous-mare-797
+run_uuid: d4b06d87f755464aaf5d2d8bd91c2335
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708051129666
+status: 4
+tags: []
+user_id: blake

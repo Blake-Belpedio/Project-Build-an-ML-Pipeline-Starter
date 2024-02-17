@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/06c646a3dcfc4819a51ea1af729e431c/artifacts
+end_time: 1707934273894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 06c646a3dcfc4819a51ea1af729e431c
+run_name: carefree-snake-596
+run_uuid: 06c646a3dcfc4819a51ea1af729e431c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707934263256
+status: 3
+tags: []
+user_id: blake

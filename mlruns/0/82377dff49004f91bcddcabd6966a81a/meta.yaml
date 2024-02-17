@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/82377dff49004f91bcddcabd6966a81a/artifacts
+end_time: 1708051408298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82377dff49004f91bcddcabd6966a81a
+run_name: powerful-hawk-64
+run_uuid: 82377dff49004f91bcddcabd6966a81a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708051372675
+status: 4
+tags: []
+user_id: blake

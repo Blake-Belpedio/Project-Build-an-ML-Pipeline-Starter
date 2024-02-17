@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/254e1651c0e44b0dbb089d7b9803328e/artifacts
+end_time: 1708048402234
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 254e1651c0e44b0dbb089d7b9803328e
+run_name: able-bee-995
+run_uuid: 254e1651c0e44b0dbb089d7b9803328e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708048360959
+status: 4
+tags: []
+user_id: blake

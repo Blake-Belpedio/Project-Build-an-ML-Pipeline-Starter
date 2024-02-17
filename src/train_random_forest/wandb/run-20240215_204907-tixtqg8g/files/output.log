@@ -1,0 +1,19 @@
+2024-02-15 20:49:10,879 Minimum price: 10, Maximum price: 350
+2024-02-15 20:49:10,890 Preparing sklearn pipeline
+2024-02-15 20:49:10,891 Fitting
+Traceback (most recent call last):
+  File "/home/blake/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 303, in <module>
+    go(args)
+  File "/home/blake/Project-Build-an-ML-Pipeline-Starter/src/train_random_forest/run.py", line 79, in go
+    sk_pipe.fit(X_train,y_train)
+  File "/home/blake/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/pipeline.py", line 346, in fit
+    self._final_estimator.fit(Xt, y, **fit_params_last_step)
+  File "/home/blake/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/sklearn/ensemble/_forest.py", line 387, in fit
+    trees = Parallel(n_jobs=self.n_jobs, verbose=self.verbose,
+  File "/home/blake/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/joblib/parallel.py", line 1952, in __call__
+    return output if self.return_generator else list(output)
+  File "/home/blake/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/joblib/parallel.py", line 1595, in _get_outputs
+    yield from self._retrieve()
+  File "/home/blake/miniconda3/envs/mlflow-d6c04384fb9356865b6d231fc3cbd1b1b9b4863e/lib/python3.9/site-packages/joblib/parallel.py", line 1707, in _retrieve
+    time.sleep(0.01)
+KeyboardInterrupt

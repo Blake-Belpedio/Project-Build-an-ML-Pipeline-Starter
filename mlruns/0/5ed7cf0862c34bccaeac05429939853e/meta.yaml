@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5ed7cf0862c34bccaeac05429939853e/artifacts
+end_time: 1707942697578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed7cf0862c34bccaeac05429939853e
+run_name: clumsy-lark-552
+run_uuid: 5ed7cf0862c34bccaeac05429939853e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707942657737
+status: 4
+tags: []
+user_id: blake

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/32784db72bf9486bb76e976deeddb3ad/artifacts
+end_time: 1707943344833
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32784db72bf9486bb76e976deeddb3ad
+run_name: efficient-foal-745
+run_uuid: 32784db72bf9486bb76e976deeddb3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707943299000
+status: 4
+tags: []
+user_id: blake

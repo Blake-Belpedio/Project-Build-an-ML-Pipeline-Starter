@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/2cbc3b1aeadd46fdb266bfccb0dd24d0/artifacts
+end_time: 1708046056973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2cbc3b1aeadd46fdb266bfccb0dd24d0
+run_name: unleashed-bug-797
+run_uuid: 2cbc3b1aeadd46fdb266bfccb0dd24d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708046015477
+status: 4
+tags: []
+user_id: blake

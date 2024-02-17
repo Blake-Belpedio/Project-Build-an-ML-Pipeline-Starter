@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4d0772bbf9494a85b9734f930d2ab421/artifacts
+end_time: 1708047786995
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d0772bbf9494a85b9734f930d2ab421
+run_name: classy-squirrel-247
+run_uuid: 4d0772bbf9494a85b9734f930d2ab421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708047741459
+status: 4
+tags: []
+user_id: blake

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/5ca3e749c5114dc4b991b621e982d32c/artifacts
+end_time: 1708052126603
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ca3e749c5114dc4b991b621e982d32c
+run_name: sincere-ox-654
+run_uuid: 5ca3e749c5114dc4b991b621e982d32c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708052087530
+status: 4
+tags: []
+user_id: blake

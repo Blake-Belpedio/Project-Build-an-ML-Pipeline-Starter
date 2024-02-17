@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/412481f7ea954d9e8c356598f97beec0/artifacts
+end_time: 1708051092503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 412481f7ea954d9e8c356598f97beec0
+run_name: fun-deer-430
+run_uuid: 412481f7ea954d9e8c356598f97beec0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708051091103
+status: 4
+tags: []
+user_id: blake

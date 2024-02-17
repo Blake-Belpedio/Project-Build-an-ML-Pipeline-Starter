@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/84e2e0712d674ad4a682cb5bd2c0188a/artifacts
+end_time: 1708047354876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84e2e0712d674ad4a682cb5bd2c0188a
+run_name: thundering-fly-424
+run_uuid: 84e2e0712d674ad4a682cb5bd2c0188a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708047314421
+status: 4
+tags: []
+user_id: blake

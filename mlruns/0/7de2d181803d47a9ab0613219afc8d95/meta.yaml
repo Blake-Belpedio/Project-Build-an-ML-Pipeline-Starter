@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7de2d181803d47a9ab0613219afc8d95/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7de2d181803d47a9ab0613219afc8d95
+run_name: respected-fawn-404
+run_uuid: 7de2d181803d47a9ab0613219afc8d95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708048144367
+status: 1
+tags: []
+user_id: blake

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/eb626c33013b47e9b0cadba55582d208/artifacts
+end_time: 1707870371396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eb626c33013b47e9b0cadba55582d208
+run_name: fortunate-kit-853
+run_uuid: eb626c33013b47e9b0cadba55582d208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870367061
+status: 4
+tags: []
+user_id: blake

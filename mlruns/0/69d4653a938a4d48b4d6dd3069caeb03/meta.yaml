@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/69d4653a938a4d48b4d6dd3069caeb03/artifacts
+end_time: 1707942132428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69d4653a938a4d48b4d6dd3069caeb03
+run_name: carefree-bass-264
+run_uuid: 69d4653a938a4d48b4d6dd3069caeb03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707942093225
+status: 4
+tags: []
+user_id: blake

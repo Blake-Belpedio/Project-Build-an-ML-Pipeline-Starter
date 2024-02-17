@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/226c50a3963f49db97734a28926c1d8c/artifacts
+end_time: 1708125037292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 226c50a3963f49db97734a28926c1d8c
+run_name: exultant-tern-135
+run_uuid: 226c50a3963f49db97734a28926c1d8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708124644416
+status: 3
+tags: []
+user_id: blake

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ab53977986ff43ec8c69d67b3a44721e/artifacts
+end_time: 1707942467787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab53977986ff43ec8c69d67b3a44721e
+run_name: auspicious-perch-301
+run_uuid: ab53977986ff43ec8c69d67b3a44721e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707942432935
+status: 4
+tags: []
+user_id: blake

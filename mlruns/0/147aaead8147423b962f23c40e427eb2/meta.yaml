@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/147aaead8147423b962f23c40e427eb2/artifacts
+end_time: 1708124702219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 147aaead8147423b962f23c40e427eb2
+run_name: likeable-sponge-197
+run_uuid: 147aaead8147423b962f23c40e427eb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708124647327
+status: 3
+tags: []
+user_id: blake
