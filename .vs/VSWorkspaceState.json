@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github\\workflows",
-    "\\src",
-    "\\src\\basic_cleaning",
-    "\\src\\eda"
+    ""
   ],
-  "SelectedNode": "\\.github",
   "PreviewInSolutionExplorer": false
 }

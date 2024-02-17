@@ -14,3 +14,13 @@
 *.ipynb
 *.ipynb
 *.ipynb
+/.vs/PythonSettings.json
+*.sqlite
+/mlruns/0/0352f3af8a0b43758a57fc9c2755457a/tags/mlflow.source.git.repoURL
+/mlruns/0/0352f3af8a0b43758a57fc9c2755457a/tags/mlflow.source.name
+/mlruns/0/0352f3af8a0b43758a57fc9c2755457a/tags/mlflow.source.type
+/mlruns/0/0352f3af8a0b43758a57fc9c2755457a/tags/mlflow.user
+/mlruns/0/0e3e53b608004eeeb7e2cf496a6cdacc
+/mlruns/0/0edb0c628bf04ab5a130891090d16c29
+/mlruns/0/3652c39127fa46388415d838b19a389d
+/mlruns/0/b5a6138c37ba4dfe96ad8172db571d13
