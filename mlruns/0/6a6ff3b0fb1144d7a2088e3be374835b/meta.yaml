@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6a6ff3b0fb1144d7a2088e3be374835b/artifacts
+end_time: 1708130222799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a6ff3b0fb1144d7a2088e3be374835b
+run_name: magnificent-asp-983
+run_uuid: 6a6ff3b0fb1144d7a2088e3be374835b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708130174518
+status: 3
+tags: []
+user_id: blake

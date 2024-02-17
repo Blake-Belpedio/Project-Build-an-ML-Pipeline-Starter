@@ -1,0 +1,15 @@
+artifact_uri: file:///home/blake/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ae4a5480da2141809a7a91afb33fb797/artifacts
+end_time: 1708130174499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae4a5480da2141809a7a91afb33fb797
+run_name: bright-donkey-886
+run_uuid: ae4a5480da2141809a7a91afb33fb797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708130057361
+status: 3
+tags: []
+user_id: blake
